@@ -55,7 +55,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+# lang: "ko"  # default lang is ko
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -139,8 +139,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "고양이집사가 되고픈 꿈나무 개발자"
+#     subheading: "많은 것을 할 수 있는 멋있는 개발자가 되길 바라며 적어가는 블로그입니다."
 #     banner: "Your image url"
 
 # Banner default settings
