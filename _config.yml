@@ -126,8 +126,8 @@ yat:
 # Page default value
 defaults:
   home:
-     heading: "조케이 블로그"
-     subheading: "Welcome to Kay's blog!"
+     heading: "고양이집사가 되고픈 꿈나무 개발자"
+     subheading: "많은 것을 할 수 있는 멋있는 개발자가 되길 바라며 적어가는 블로그입니다."
 #     banner: "Your image url"
 
 # Banner default settings
