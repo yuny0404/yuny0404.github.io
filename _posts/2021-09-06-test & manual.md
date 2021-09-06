@@ -2,7 +2,7 @@
 layout: post
 title: 블로그 테스트
 categories: 테스트
-tags: [test][first][blog]
+tags: [test,first,blog]
 ---
 
 
