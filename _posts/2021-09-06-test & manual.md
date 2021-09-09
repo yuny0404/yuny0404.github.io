@@ -23,9 +23,9 @@ tags: [test,first,blog]
 ---
 ```
 
-title: 게시글의 제목
-categories: 카테고리
-tags: [태그1,태그2,태그3,...]
+title: 게시글의 제목;
+categories: 카테고리;
+tags: [태그1,태그2,태그3,...];
 
 
 
