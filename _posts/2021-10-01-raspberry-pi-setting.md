@@ -8,21 +8,21 @@
 
 위의 주소에서 다운받으려 하는 운영체제에 맞게 설치한다.
 
-<img src="https://user-images.githubusercontent.com/68053199/139038738-5faf3800-e37f-4ffa-a4d0-7a64a71c107c.png" alt="11726_Even_horizontal" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/68053199/139038738-5faf3800-e37f-4ffa-a4d0-7a64a71c107c.png" alt="11726_Even_horizontal" style="zoom:30%;" />
 
 
 
-설치가 다 되었다면, 라즈베리 OS를 다운받을 SD카드를 SD카드 리더기나 SD카드 리더기가 있는 노트북을 이용해 노트북에 연결해준다.
+설치가 다 되었다면, 라즈베리 OS를 다운받을 SD카드를 노트북에 연결해준다.
 
 ### Raspberry Pi OS 설치
 
 다운받은 프로그램을 실행시키면 이런 화면이 나올 것이다.
 
-<img src="https://user-images.githubusercontent.com/68053199/139038807-e5d4d90f-2f54-4e7e-b4bf-eda7f646eef7.png" alt="11726_Even_horizontal" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/68053199/139038807-e5d4d90f-2f54-4e7e-b4bf-eda7f646eef7.png" alt="11726_Even_horizontal" style="zoom:60%;" />
 
-먼저 Raspberry pi Imager은 라즈베리 파이 OS만 설치할 수 있는 것은 아니기에 우리가 다운받을 OS를 선택해야 한다. CHOOSE OS을 선택해보자.
+먼저 Raspberry pi Imager은 라즈베리 파이 OS만 설치할 수 있는 것은 아니기에 우리가 다운받을 OS를 선택해야 한다.CHOOSE OS을 선택해보자.
 
-<img src="https://user-images.githubusercontent.com/68053199/139038423-646d4c3e-6ab9-4b2a-9d90-101df4a3e8e3.png" alt="11726_Even_horizontal" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/68053199/139038423-646d4c3e-6ab9-4b2a-9d90-101df4a3e8e3.png" alt="11726_Even_horizontal" style="zoom:60%;" />
 
 여러가지 OS중 자신이 사용할 OS를 찾아서 선택한다. 작성자는 맨 위에 기본 라즈베리 파이 OS(32-bit)를 선택했다. 
 
@@ -38,4 +38,4 @@
 
 //설치 다된 사진
 
-이 화면이 뜬다면 OS가 SD카드에 잘 설치 되었을 것이다.
+이 화면이 뜬다면 OS가 SD카드에 잘 설치 되었을 것이다. 다음 포스트에는 라즈베리 파이 OS의 기본적인 설정을 다룰것이다. 
