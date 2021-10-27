@@ -8,7 +8,7 @@
 
 위의 주소에서 다운받으려 하는 운영체제에 맞게 설치한다.
 
-<img src="C:\Users\yoony\OneDrive\바탕 화면\2021-09-28 raspberry-pi-setting-img\화면 캡처 2021-09-28 225044.png" alt="화면 캡처 2021-09-28 225044" style="zoom:30%;" />
+![화면 캡처 2021-09-28 225044](https://user-images.githubusercontent.com/68053199/139038738-5faf3800-e37f-4ffa-a4d0-7a64a71c107c.png)
 
 설치가 다 되었다면, 라즈베리 OS를 다운받을 SD카드를 SD카드 리더기나 SD카드 리더기가 있는 노트북을 이용해 노트북에 연결해준다.
 
@@ -16,11 +16,11 @@
 
 다운받은 프로그램을 실행시키면 이런 화면이 나올 것이다.
 
-<img src="C:\Users\yoony\OneDrive\바탕 화면\2021-09-28 raspberry-pi-setting-img\화면 캡처 2021-09-30 150746.png" alt="화면 캡처 2021-09-30 150746" style="zoom:70%;" />
+![화면 캡처 2021-09-30 150746](https://user-images.githubusercontent.com/68053199/139038807-e5d4d90f-2f54-4e7e-b4bf-eda7f646eef7.png)
 
 먼저 Raspberry pi Imager은 라즈베리 파이 OS만 설치할 수 있는 것은 아니기에 우리가 다운받을 OS를 선택해야 한다. CHOOSE OS을 선택해보자.
 
-![화면 캡처 2021-10-27 092531](C:\Users\yoony\OneDrive\바탕 화면\화면 캡처 2021-10-27 092531.png)
+![화면 캡처 2021-10-27 092531](https://user-images.githubusercontent.com/68053199/139038423-646d4c3e-6ab9-4b2a-9d90-101df4a3e8e3.png)
 
 여러가지 OS중 자신이 사용할 OS를 찾아서 선택한다. 작성자는 맨 위에 기본 라즈베리 파이 OS(32-bit)를 선택했다. 
 
