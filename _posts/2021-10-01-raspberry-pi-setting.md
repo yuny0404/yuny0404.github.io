@@ -28,14 +28,14 @@
 
 다음, SD카드를 선택하기 위해 CHOOSE SD CARD를 선택한다.
 
-//SD카드 선택 사진 표시 필요
+<img src="https://user-images.githubusercontent.com/68053199/139439808-90f99e72-47c5-4240-8945-8bb07535ff43.png" alt="11726_Even_horizontal" style="zoom:60%;" />
 
-다음과 같이 여러 종류가 나올 수 있는데, 장치관리자에서 연결된 SD카드가 맞는지 잘 확인하고 선택해야 한다.
+여러 종류가 나올 수도 있는데, 연결된 SD카드가 맞는지 잘 확인하고 선택해야 한다.
 
-//write버튼 있는 화면 
+<img src="https://user-images.githubusercontent.com/68053199/139441740-b7ca3382-29a3-4c23-a1c2-d0a7bc665a5e.png" alt="11726_Even_horizontal" style="zoom:60%;" />
 
-원하는 OS를 선택하고 OS를 설치 할 SD카드를 선택했다면 write버튼을 눌러 SD카드에 OS가 설치되기를 기다리자.
+원하는 OS를 선택하고 OS를 설치 할 SD카드를 선택했다면 write버튼을 누른다.
 
-//설치 다된 사진
+<img src="https://user-images.githubusercontent.com/68053199/139441848-95b54918-0320-4b08-a05d-db0e42be8a82.png" alt="11726_Even_horizontal" style="zoom:60%;" />
 
-이 화면이 뜬다면 OS가 SD카드에 잘 설치 되었을 것이다. 다음 포스트에는 라즈베리 파이 OS의 기본적인 설정을 다룰것이다. 
+ 기존 SD카드에 있는 데이터가 모두 지워진다는 경고다. 중요한 자료가 있다면 미리 보관하도록 하자. YES버튼을 누르고 OS가 설치되기를 기다리자.  다음 포스트에는 라즈베리 파이 OS의 기본적인 설정을 다룰것이다. 
