@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry pi 초기 세팅
 categories: Raspberry pi
-tags: [Raspberry pi]
+tags: [Raspberry_pi]
 ---
 
 저번글에 이어 이번엔 라즈베리파이를 처음 켰을 때의 세팅을 해보자.  
