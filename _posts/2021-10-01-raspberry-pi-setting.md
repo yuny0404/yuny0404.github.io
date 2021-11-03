@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Raspberry pi Image 설치
-categories: Raspberry pi
-tags: [Raspberry_pi]
+categories: Raspberry_pi
+tags: [Raspberry pi]
 ---
 
 라즈베리파이를 처음 세팅할 때마다 검색하는게 너무 귀찮아서 정리한다.
